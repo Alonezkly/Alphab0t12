@@ -1,5 +1,5 @@
 const list_aov = (prefix) => {
-return `*ZEEONE OFC さ*
+return `*Aloneshop*
 			
 PROSES	1-60Mnt Max 1X24 Jam		
 OPEN	08.00-21.00		
